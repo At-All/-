@@ -52,7 +52,7 @@
     </key>
   </component>
   <component name="RunManager" selected="Python.img3a">
-    <configuration name="img1a (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="img1a" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="数据可视化作业" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -60,11 +60,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/作业4：向量场可视化/homework4" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/作业4：向量场可视化" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/作业4：向量场可视化/homework4/img1a.py" />
+      <option name="SCRIPT_NAME" value="F:\GitKraken\数据可视化作业\作业4：向量场可视化\img1a.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -81,11 +81,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/作业4：向量场可视化" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/作业4：向量场可视化/homework4" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="F:\GitKraken\数据可视化作业\作业4：向量场可视化\homework4\img1a.py" />
+      <option name="SCRIPT_NAME" value="F:\GitKraken\数据可视化作业\作业4：向量场可视化\img1a.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -127,7 +127,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/作业4：向量场可视化/homework4/img2.py" />
+      <option name="SCRIPT_NAME" value="F:\GitKraken\数据可视化作业\作业4：向量场可视化\img2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -148,7 +148,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/作业4：向量场可视化/homework4/img3a.py" />
+      <option name="SCRIPT_NAME" value="F:\GitKraken\数据可视化作业\作业4：向量场可视化\img3a.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -169,7 +169,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="F:\GitKraken\数据可视化作业\作业4：向量场可视化\homework4\vecT_to_txt.py" />
+      <option name="SCRIPT_NAME" value="F:\GitKraken\数据可视化作业\作业4：向量场可视化\vecT_to_txt.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -184,7 +184,6 @@
         <item itemvalue="Python.img1a (1)" />
         <item itemvalue="Python.img2" />
         <item itemvalue="Python.img1a" />
-        <item itemvalue="Python.vecT_to_txt (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -230,22 +229,22 @@
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
     <state x="1010" y="265" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.-1080.1920.1040/0.0.2560.1040@0.0.2560.1040" timestamp="1607581283746" />
-    <state width="2538" height="276" key="GridCell.Tab.0.bottom" timestamp="1607583487852">
+    <state width="2538" height="276" key="GridCell.Tab.0.bottom" timestamp="1607583888685">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="2538" height="276" key="GridCell.Tab.0.bottom/0.-1080.1920.1040/0.0.2560.1040@0.0.2560.1040" timestamp="1607583487852" />
-    <state width="2538" height="276" key="GridCell.Tab.0.center" timestamp="1607583487852">
+    <state width="2538" height="276" key="GridCell.Tab.0.bottom/0.-1080.1920.1040/0.0.2560.1040@0.0.2560.1040" timestamp="1607583888685" />
+    <state width="2538" height="276" key="GridCell.Tab.0.center" timestamp="1607583888685">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="2538" height="276" key="GridCell.Tab.0.center/0.-1080.1920.1040/0.0.2560.1040@0.0.2560.1040" timestamp="1607583487852" />
-    <state width="2538" height="276" key="GridCell.Tab.0.left" timestamp="1607583487852">
+    <state width="2538" height="276" key="GridCell.Tab.0.center/0.-1080.1920.1040/0.0.2560.1040@0.0.2560.1040" timestamp="1607583888685" />
+    <state width="2538" height="276" key="GridCell.Tab.0.left" timestamp="1607583888685">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="2538" height="276" key="GridCell.Tab.0.left/0.-1080.1920.1040/0.0.2560.1040@0.0.2560.1040" timestamp="1607583487852" />
-    <state width="2538" height="276" key="GridCell.Tab.0.right" timestamp="1607583487852">
+    <state width="2538" height="276" key="GridCell.Tab.0.left/0.-1080.1920.1040/0.0.2560.1040@0.0.2560.1040" timestamp="1607583888685" />
+    <state width="2538" height="276" key="GridCell.Tab.0.right" timestamp="1607583888685">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state width="2538" height="276" key="GridCell.Tab.0.right/0.-1080.1920.1040/0.0.2560.1040@0.0.2560.1040" timestamp="1607583487852" />
+    <state width="2538" height="276" key="GridCell.Tab.0.right/0.-1080.1920.1040/0.0.2560.1040@0.0.2560.1040" timestamp="1607583888685" />
     <state x="781" y="151" key="SettingsEditor" timestamp="1607254390401">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
